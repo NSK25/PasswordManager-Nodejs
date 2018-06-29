@@ -9,18 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lokeshkanagala/PasswordManager-NodeJS.git"
+    
   },
   "keywords": [
     "Password",
     "Manager"
   ],
-  "author": "Lokesh Kanagala",
+  "author": "sai krishna nadella",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lokeshkanagala/PasswordManager-NodeJS/issues"
-  },
-  "homepage": "https://github.com/lokeshkanagala/PasswordManager-NodeJS#readme",
+ 
+ 
   "dependencies": {
     "node-persist": "0.0.6",
     "yargs": "^3.15.0"
